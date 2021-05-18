@@ -2,4 +2,4 @@
 
 ![Logo](heart-avatar.png)
 
-Creates clothing designs. 
+Create clothing designs. 
